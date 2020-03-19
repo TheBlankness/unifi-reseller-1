@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pakar-unifi-system"
+  },
+  "targets": {
+    "pakar-unifi-system": {
+      "hosting": {
+        "pakar-unifi": [
+          "pakar-unifi"
+        ]
+      }
+    }
+  }
+}
